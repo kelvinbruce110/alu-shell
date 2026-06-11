@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Tell the story of passwd
+# Tell the story of passwd 
 
 while IFS=: read -r username password _ group_id user_info home_directory shell
 do
